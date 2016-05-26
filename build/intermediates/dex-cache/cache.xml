@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\linphone-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\AndroidStudioProjects\linphone-android\app\build\intermediates\pre-dexed\debug\classes-6ff2a3de35a4a22ab926fe62f88ad3abf56cf946.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\linphone-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\AndroidStudioProjects\linphone-android\app\build\intermediates\pre-dexed\debug\classes-d40f8c57d11f27cc7e41d72407670b49b50afb9b.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\AndroidStudioProjects\linphone-android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-55f0ae545862459da9d92d8302060b50b1704ceb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\linphone-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\AndroidStudioProjects\linphone-android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-72539e5cd9bb1e1a63fb915d61df461447aff9d0.jar" />
+    </item>
+
+</items>

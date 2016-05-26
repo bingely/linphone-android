@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string-array name="tunnel_mode_entries">
+    <item>deshabilitado</item>
+    <item>sólo 3G</item>
+    <item>siempre</item>
+    <item>auto</item>
+  </string-array>
+    <string name="AddCallButtonText">Añadir llamada</string>
+    <string name="CancelButtonText">Cancelar</string>
+    <string name="TransferCallButtonText">Transferir llamada</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-es/values-es.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="accept">Aceptar</string>
+    <string name="at_least_a_protocol">Se requiere al menos un elemento</string>
+    <string name="bad_target_uri">Contacto erróneo: %s</string>
+    <string name="bluetooth_button_txt">Bluetooth</string>
+    <string name="button_add_call">Añadir llamada</string>
+    <string name="button_bluetooth">Bluetooth</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_setup_cancel">Cancelar</string>
+    <string name="button_speaker">Altavoz</string>
+    <string name="button_transfer">Transferir</string>
+    <string name="button_video">Vídeo</string>
+    <string name="call_stats_video">Vídeo</string>
+    <string name="call_update_no">Declinar</string>
+    <string name="call_update_yes">Aceptar</string>
+    <string name="cannot_resume_paused_by_remote_call">No puedo continuar una llamada puesta en pausa remotamente</string>
+    <string name="click_to_show_first_login_view">Empezar</string>
+    <string name="close_button_text">Cerrar</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-es/base_strings.xml -->
+    <eat-comment/>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesita uno o varios servicios de Google Play que no están disponibles en este momento. Ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Habilitar los Servicios de Google Play"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites los Servicios de Google Play."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"Habilita los Servicios de Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"Descargar los Servicios de Google Play"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu teléfono."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu tablet."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"Descargar los Servicios de Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con los Servicios de Google Play."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Error de los Servicios de Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"No se admite el acceso a las cuentas desde un perfil restringido."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"Perfil restringido"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"Error al iniciar sesión en la cuenta especificada. Selecciona otra cuenta."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"Error al iniciar sesión"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-es/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los servicios de Google Play. Si el problema persiste, ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-es/base_strings.xml -->
+    <eat-comment/>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> se basa en los Servicios de Google Play, pero no es compatible con tu dispositivo. Ponte en contacto con el fabricante para obtener asistencia."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que no actualices los Servicios de Google Play."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"Actualiza los Servicios de Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de los Servicios de Google Play."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Actualizando Servicios de Google Play"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de los Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="communication_encrypted">Cifrado</string>
+    <string name="conf_admin_choice_enter">Entrar en conferencia</string>
+    <string name="conf_admin_choice_leave">Dejar momentáneamente la conferencia</string>
+    <string name="conf_admin_choice_terminate">Terminar la conferencia</string>
+    <string name="conf_conference">Conferencia</string>
+    <string name="conf_show_details_text">Mostrar detalles</string>
+    <string name="conf_simple_merge_bt_txt">Unir</string>
+    <string name="conf_simple_transfer_bt_txt">Transferir</string>
+    <string name="conf_simple_video_bt_txt">vídeo</string>
+    <string name="conference">Conferencia</string>
+    <string name="content_description_about"/>
+    <string name="content_description_add_call"/>
+    <string name="content_description_all_calls"/>
+    <string name="content_description_all_contacts"/>
+    <string name="content_description_back"/>
+    <string name="content_description_call_direction"/>
+    <string name="content_description_call_quality"/>
+    <string name="content_description_cancel"/>
+    <string name="content_description_chat"/>
+    <string name="content_description_conference"/>
+    <string name="content_description_contact_picture"/>
+    <string name="content_description_contacts"/>
+    <string name="content_description_delete"/>
+    <string name="content_description_detail"/>
+    <string name="content_description_dial_back"/>
+    <string name="content_description_dialer"/>
+    <string name="content_description_edit"/>
+    <string name="content_description_encryption"/>
+    <string name="content_description_hang_up"/>
+    <string name="content_description_history"/>
+    <string name="content_description_led"/>
+    <string name="content_description_linphone_contacts"/>
+    <string name="content_description_mark"/>
+    <string name="content_description_message_status"/>
+    <string name="content_description_missed_calls"/>
+    <string name="content_description_new_discussion"/>
+    <string name="content_description_next"/>
+    <string name="content_description_numpad"/>
+    <string name="content_description_pause"/>
+    <string name="content_description_send_message"/>
+    <string name="content_description_settings"/>
+    <string name="content_description_setup_ok"/>
+    <string name="content_description_switch_camera"/>
+    <string name="content_description_switch_video"/>
+    <string name="content_description_toggle_micro"/>
+    <string name="content_description_toggle_speaker"/>
+    <string name="content_description_validate"/>
+    <string name="content_description_welcome"/>
+    <string name="couldnt_accept_call">Ocurrió un error al aceptar la llamada</string>
+    <string name="decline">Declinar</string>
+    <string name="dialer_null_on_new_intent">Aplicación no preparado</string>
+    <string name="error">Error</string>
+    <string name="error_adding_new_call">Error al añadir nueva llamada</string>
+    <string name="filter_contacts">Filtrar contactos</string>
+    <string name="hangup">Colgar</string>
+    <string name="in_conf">Eres parte de ella</string>
+    <string name="in_conf_leave">Salir</string>
+    <string name="incoming_call_dialog_title">%s le está llamando</string>
+    <string name="menu_videocall_change_resolution_title">Cambiar resolución</string>
+    <string name="menu_videocall_change_resolution_when_high_resolution">Baja resolución</string>
+    <string name="menu_videocall_change_resolution_when_low_resolution">Probar alta resolución</string>
+    <string name="menu_videocall_switch_camera_title">Cámara frontal/trasera</string>
+    <string name="menu_videocall_terminate_call_title">Terminar llamada</string>
+    <string name="menu_videocall_toggle_camera_disable">Deshabilitar cámara</string>
+    <string name="menu_videocall_toggle_camera_enable">Habilitar cámara</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-es/values-es.xml -->
+    <eat-comment/>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Enviar contenido"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Buscando dispositivos…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Conectar a dispositivo"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Desconectar"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"No hay información disponible"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Pausa"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Reproducir"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Ajustes de ruta"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Dejar de enviar contenido"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Dispositivos"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="mutemic_button_txt">Silenciar</string>
+    <string name="no_phone_numbers">No se encontraron números de teléfono para %s</string>
+    <string name="not_ready_to_make_new_call">No preparado para una nueva llamada</string>
+    <string name="out_conf">Has salido de ella</string>
+    <string name="out_conf_enter">Entrar</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/values-es/location_strings.xml -->
+    <eat-comment/>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"Borrar búsqueda"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"Buscar"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="pref_add_account">Añadir cuenta</string>
+    <string name="pref_animation_enable_title">Habilitar animaciones</string>
+    <string name="pref_audio_soft_volume_title">Usar volumen por software</string>
+    <string name="pref_codecs">Codecs</string>
+    <string name="pref_default_account">Usar como predeterminada</string>
+    <string name="pref_delete_account">Borrar ésta cuenta</string>
+    <string name="pref_disable_account">Deshabilitar</string>
+    <string name="pref_echo_cancellation">Cancelación de eco</string>
+    <string name="pref_echo_canceller_calibration">Calibrado del cancelador de eco</string>
+    <string name="pref_enable_outbound_proxy">Proxy saliente</string>
+    <string name="pref_escape_plus">Sustituir + por 00</string>
+    <string name="pref_ilbc_summary">iLBC puede no estar disponible dependiendo del procesador ARM y la versión de S.O. Android</string>
+    <string name="pref_ipv6_title">Usar ipv6 en vez de ipv4</string>
+    <string name="pref_network_title">Red</string>
+    <string name="pref_preferences">Preferencias</string>
+    <string name="pref_preferred_video_size">Tamaño de vídeo preferido</string>
+    <string name="pref_sip_port_title">Puerto SIP a usar</string>
+    <string name="pref_transport">Transporte</string>
+    <string name="pref_transport_tcp">TCP</string>
+    <string name="pref_transport_tls">TLS</string>
+    <string name="pref_transport_udp">UDP</string>
+    <string name="pref_transport_use_random_ports">Usar puertos aleatorios</string>
+    <string name="pref_tunnel">Túnel</string>
+    <string name="pref_tunnel_mode">Modo</string>
+    <string name="pref_tunnel_port">Puerto</string>
+    <string name="pref_video">Vídeo</string>
+    <string name="pref_video_automatically_accept_video">Aceptar peticiones de vídeo siempre</string>
+    <string name="pref_video_automatically_accept_video_title">Aceptar peticiones de vídeo entrantes</string>
+    <string name="pref_video_automatically_share_my_video">Enviar mi cámara automáticamente</string>
+    <string name="pref_video_automatically_share_my_video_title">Compartir mi cámara</string>
+    <string name="pref_video_codecs_title">Codecs</string>
+    <string name="pref_video_enable_title">Habilitar Vídeo</string>
+    <string name="pref_video_initiate_call_with_video">Siempre enviar peticiones de vídeo</string>
+    <string name="pref_video_initiate_call_with_video_title">Iniciar videollamadas</string>
+    <string name="pref_video_use_front_camera_title">Usar cámara frontal</string>
+    <string name="resume_dialog_title">Continuar llamada</string>
+    <string name="show_send_dtmfs_button">Teclado numérico</string>
+    <string name="skipable_error_service_not_ready">Aviso: el servicio no está preparado</string>
+    <string name="speaker_button_txt">Altavoz</string>
+    <string name="state_incoming_received">entrante</string>
+    <string name="state_outgoing_progress">llamando</string>
+    <string name="state_outgoing_ringing">sonando</string>
+    <string name="state_paused">puesta en pausa</string>
+    <string name="state_paused_by_remote">puesta en pausa remotamente</string>
+    <string name="state_streams_running"/>
+    <string name="status_active_call">activa</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-es/values-es.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="title_numbers_dialog">números de teléfono de %s</string>
+    <string name="transfer_dialog_title">Transferir llamada a</string>
+    <string name="transfer_started">Transferencia iniciada</string>
+    <string name="transfer_to_new_call">Nueva llamada</string>
+    <string name="unknown_incoming_call_name">Desconocido</string>
+    <string name="verify_sas_fmt">Verifica %s</string>
+    <string name="waiting_for_startup">Comenzando...</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/res/values-es/wallet_strings.xml -->
+    <eat-comment/>
+    <string msgid="4184147110658930238" name="wallet_buy_button_place_holder">"Comprar con Google"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/linphone-android/app/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="zrtp_accept">Aceptar</string>
+</resources>
