@@ -17,26 +17,6 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 */
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Timer;
-import java.util.TimerTask;
-
-import org.linphone.core.LinphoneCall;
-import org.linphone.core.LinphoneCallParams;
-import org.linphone.core.LinphoneCallStats;
-import org.linphone.core.LinphoneContent;
-import org.linphone.core.LinphoneCore;
-import org.linphone.core.LinphoneCore.MediaEncryption;
-import org.linphone.core.LinphoneCore.RegistrationState;
-import org.linphone.core.LinphoneCoreListenerBase;
-import org.linphone.core.LinphoneEvent;
-import org.linphone.core.LinphoneProxyConfig;
-import org.linphone.core.PayloadType;
-import org.linphone.mediastream.Log;
-import org.linphone.ui.SlidingDrawer;
-import org.linphone.ui.SlidingDrawer.OnDrawerOpenListener;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
@@ -54,6 +34,26 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TableLayout;
 import android.widget.TextView;
+
+import org.linphone.core.LinphoneCall;
+import org.linphone.core.LinphoneCallParams;
+import org.linphone.core.LinphoneCallStats;
+import org.linphone.core.LinphoneContent;
+import org.linphone.core.LinphoneCore;
+import org.linphone.core.LinphoneCore.MediaEncryption;
+import org.linphone.core.LinphoneCore.RegistrationState;
+import org.linphone.core.LinphoneCoreListenerBase;
+import org.linphone.core.LinphoneEvent;
+import org.linphone.core.LinphoneProxyConfig;
+import org.linphone.core.PayloadType;
+import org.linphone.mediastream.Log;
+import org.linphone.ui.SlidingDrawer;
+import org.linphone.ui.SlidingDrawer.OnDrawerOpenListener;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Timer;
+import java.util.TimerTask;
 
 /**
  * @author Sylvain Berfini

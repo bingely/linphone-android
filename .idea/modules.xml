@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linphone/linphone.iml" filepath="$PROJECT_DIR$/linphone/linphone.iml" />
       <module fileurl="file://$PROJECT_DIR$/linphone-android.iml" filepath="$PROJECT_DIR$/linphone-android.iml" />
     </modules>
   </component>

@@ -28,7 +28,8 @@
             android:name="org.linphone.StatusFragment"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:layout="@layout/status" />
+            tools:layout="@layout/status"
+            />
         
     </FrameLayout>
 
